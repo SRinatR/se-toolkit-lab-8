@@ -73,6 +73,10 @@ In Lab 7 you built one client around your own LLM loop. Here, the agent becomes 
 ### Optional
 
 1. [Add a Telegram Bot Client](./lab/tasks/optional/task-1.md) — same agent, different interface
+## Flutter troubleshooting
+
+If `/flutter` shows the wrong page, open it in a private window or clear site data.
+If the agent does not answer, verify the provider/proxy health before retrying the task flow.
 ## Task 4 cron note
 
 After creating the health check, keep using the same open Flutter chat session.
