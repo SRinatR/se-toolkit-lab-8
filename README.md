@@ -78,3 +78,9 @@ In Lab 7 you built one client around your own LLM loop. Here, the agent becomes 
 After creating the health check, keep using the same open Flutter chat session.
 Do not refresh the page before the scheduled job posts its summary.
 Use `List scheduled jobs.` to verify that the recurring job exists.
+## Flutter webchat access
+
+Open the chat at `/flutter`.
+
+Use `NANOBOT_ACCESS_KEY` to connect to the chat.
+Do not use `LMS_API_KEY` on the webchat screen.
