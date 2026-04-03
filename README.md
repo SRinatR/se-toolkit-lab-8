@@ -73,6 +73,11 @@ In Lab 7 you built one client around your own LLM loop. Here, the agent becomes 
 ### Optional
 
 1. [Add a Telegram Bot Client](./lab/tasks/optional/task-1.md) — same agent, different interface
+## Task 4 cron note
+
+After creating the health check, keep using the same open Flutter chat session.
+Do not refresh the page before the scheduled job posts its summary.
+Use `List scheduled jobs.` to verify that the recurring job exists.
 ## Flutter webchat access
 
 Open the chat at `/flutter`.
