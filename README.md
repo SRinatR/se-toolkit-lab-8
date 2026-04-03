@@ -73,3 +73,9 @@ In Lab 7 you built one client around your own LLM loop. Here, the agent becomes 
 ### Optional
 
 1. [Add a Telegram Bot Client](./lab/tasks/optional/task-1.md) — same agent, different interface
+## Flutter webchat access
+
+Open the chat at `/flutter`.
+
+Use `NANOBOT_ACCESS_KEY` to connect to the chat.
+Do not use `LMS_API_KEY` on the webchat screen.
